@@ -11,3 +11,4 @@ Altered Escape : https://alteredescape.online
 JustEmuTarkov project : https://justemutarkov.eu 
 
 ![ ](https://github-readme-stats.vercel.app/api?username=r3tr0-02&show_icons=true&theme=dark&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
