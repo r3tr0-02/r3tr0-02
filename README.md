@@ -1,8 +1,12 @@
 # [REDACTED]
 
-[DECLASSIFIED] - Director of Operation at Kovac's Altered Escape for JustEmuTarkov project.
+[DECLASSIFIED] - ~~Director of Operation~~ Senior Executive at Kovac's Altered Escape for JustEmuTarkov project.
 
-Amateur in Python, HTML, CSS, PHP and new to C.
+A student in Bachelor's Degree of Cyber Security (Hons.) at `[redacted]`.
+
+Amateur in Python, HTML, CSS, PHP and new to C, C++ and Java.
+
+A somewhat self-taught Unity Programming Basics and 3D Modelling.
 
 I am contactable at Discord `retr0#3244` in Altered Escape server.
 
