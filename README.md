@@ -70,9 +70,11 @@
 </p>
 
 <br><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3tr0-02&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="r3tr0-02" style="width:500px"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3tr0-02&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="r3tr0-02" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=r3tr0-02&show_icons=true&locale=en&theme=dark&count_private=true" alt="r3tr0-02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3tr0-02&show_icons=true&locale=en&theme=dark&count_private=true" alt="r3tr0-02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr0-02&theme=dark" alt="r3tr0-02" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr0-02&theme=dark" alt="r3tr0-02" /></p>
