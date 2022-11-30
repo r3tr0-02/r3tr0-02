@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3tr0-02" alt="r3tr0-02" /></a> </p>
 
-- 🔭 I’m currently working as **Seniour Executive - Unity Developer** at [Altered Escape](https://github.com/KovacsAltered-State) and **Game Tester** at [JustEmuTarkov](https://github.com/JustEmuTarkov)
-
 - 🌱 I’m currently taking **Bachelor of Computer Science (Cyber Security) Hons.** at `[redacted]`
 
 - 📫 How to reach me : **r3tr0_02@protonmail.com** or **r3tr0_02@pm.me**
@@ -14,23 +12,23 @@
 - 🌐 My personal website : https://r3tr0-02.github.io
 
 <h3 align="left">Connect with me:</h3> 
-<p align="left">
+
 <a href="https://twitter.com/r3tr0_02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r3tr0_02" height="30" width="40" />
+    <img align="center" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" alt="r3tr0 _02" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/amirul-fikri/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirul-fikri/" height="30" width="40" />
+    <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" alt="amirul-fikri/" height="30" width="30" />
 </a>
 <a href="https://fb.com/r3tr0.02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcus-retro" height="30" width="40" />
+    <img align="center" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" alt="marcus-retro" height="30" width="30" />
 </a>
 <a href="https://instagram.com/r3tr0_02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r3tr0_02" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="r3tr0_02" height="30" width="30" />
 </a>
 <a href="https://www.youtube.com/channel/UCg--HMbkAcL8Vs-NphrWqew" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r3tr0 _02" height="30" width="40" />
 </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
